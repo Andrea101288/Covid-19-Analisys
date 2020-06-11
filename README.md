@@ -1,6 +1,6 @@
 # Covid-19-Analysis
 Analysis and Visualization of Covid-19 Data
-This Project was done during an Online Data Visualization on Udemy.
+This Project was done during an Online Data Visualization course on Udemy.
 
 Preprocessed Used Dataset Link: https://github.com/laxmimerit/Covid-19-Preprocessed-Dataset by [Laxmi Kant Tiwari](https://github.com/laxmimerit/)
 
