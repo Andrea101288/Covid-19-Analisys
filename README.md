@@ -5,7 +5,7 @@ This Project was done during an Online Data Visualization on Udemy.
 Preprocessed Used Dataset Link: https://github.com/laxmimerit/Covid-19-Preprocessed-Dataset by [Laxmi Kant Tiwari](https://github.com/laxmimerit/)
 
 # Data
-Data is in CSV format and updated daily. It is sourced from this upstream repository maintained by the amazing team at Johns Hopkins University Center for Systems Science and Engineering (CSSE) who have been doing a great public service from an early point by collating data from around the world.
+It is sourced from this upstream repository maintained by the amazing team at Johns Hopkins University Center for Systems Science and Engineering (CSSE) who have been doing a great public service from an early point by collating data from around the world.
 
 Sources
 The upstream dataset currently lists the following upstream datasources:
